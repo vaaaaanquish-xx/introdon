@@ -2,7 +2,8 @@
 Janetter 用プラグイン
 他者紹介するやつ
 
-詳細はブログ記事参照
+詳細はブログ記事参照:
+http://vaaaaaanquish.hatenablog.com/entry/2015/10/06/082812
 
 プラグイン導入は
 
